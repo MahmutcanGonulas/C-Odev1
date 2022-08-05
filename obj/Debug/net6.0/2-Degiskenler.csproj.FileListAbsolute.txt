@@ -1,0 +1,15 @@
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\2-Degiskenler\bin\Debug\net6.0\2-Degiskenler.exe
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\2-Degiskenler\bin\Debug\net6.0\2-Degiskenler.deps.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\2-Degiskenler\bin\Debug\net6.0\2-Degiskenler.runtimeconfig.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\2-Degiskenler\bin\Debug\net6.0\2-Degiskenler.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\2-Degiskenler\bin\Debug\net6.0\2-Degiskenler.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\2-Degiskenler\obj\Debug\net6.0\2-Degiskenler.csproj.AssemblyReference.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\2-Degiskenler\obj\Debug\net6.0\2-Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\2-Degiskenler\obj\Debug\net6.0\2-Degiskenler.AssemblyInfoInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\2-Degiskenler\obj\Debug\net6.0\2-Degiskenler.AssemblyInfo.cs
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\2-Degiskenler\obj\Debug\net6.0\2-Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\2-Degiskenler\obj\Debug\net6.0\2-Degiskenler.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\2-Degiskenler\obj\Debug\net6.0\refint\2-Degiskenler.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\2-Degiskenler\obj\Debug\net6.0\2-Degiskenler.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\2-Degiskenler\obj\Debug\net6.0\2-Degiskenler.genruntimeconfig.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\2-Degiskenler\obj\Debug\net6.0\ref\2-Degiskenler.dll
